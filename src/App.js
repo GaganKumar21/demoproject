@@ -56,6 +56,7 @@ function App() {
     <AddTodo addTodo={addTodo}/>
     <Todos todos={todos} onDelete={onDelete}/>
     <Footer/>
+    <h1>Hello world</h1>
     </>
   );
 }
